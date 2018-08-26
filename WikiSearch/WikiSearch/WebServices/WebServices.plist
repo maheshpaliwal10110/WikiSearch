@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>search</key>
+	<string>https://en.wikipedia.org//w/api.php?action=query&amp;format=json&amp;prop=pageimages%7Cpageterms&amp;generator=prefixsearch&amp;redirects=1&amp;formatversion=2&amp;piprop=thumbnail&amp;pithumbsize=50&amp;pilimit=20&amp;wbptterms=description&amp;gpssearch=&amp;gpslimit=10</string>
+	<key>searchDetails</key>
+	<string>https://en.wikipedia.org/wiki/title</string>
+</dict>
+</plist>
